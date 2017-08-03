@@ -17,5 +17,6 @@ eg.  prime 2000 75000
 
 Any other type of request is not understood by the server.
 
-Other types of messages that are present and understood by the server are
+Other types of messages that are present and understood by the server are,
+
 1 -		.q == Terminate the client
