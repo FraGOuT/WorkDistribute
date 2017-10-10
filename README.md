@@ -7,7 +7,9 @@ The subdivision and parallel execution can greatly improve the running time for 
 
 Currently the application only finds prime numbers within a given range.
 As we know finding prime number is a computationally expensive task if only one computer is performing it.
-But if more than one computers find the prime numbers in a sub range then the task can be accomplished much faster.
+But if more than one computers are used in this process the time taken can be reduced by performing the task parallely. We can split the range in which we need to look for prime numbers and each sub range can be calculated parallely on the connected clients thus improving the overall time taken for this task. 
+
+find the prime numbers in a sub range then the task can be accomplished much faster.
 
 
 ### Command format accepted ###
